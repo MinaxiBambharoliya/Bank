@@ -1,0 +1,9 @@
+C:\Users\bambh\source\repos\BankPoco\BankPoco\bin\Debug\netcoreapp3.1\BankPoco.deps.json
+C:\Users\bambh\source\repos\BankPoco\BankPoco\bin\Debug\netcoreapp3.1\BankPoco.dll
+C:\Users\bambh\source\repos\BankPoco\BankPoco\bin\Debug\netcoreapp3.1\BankPoco.pdb
+C:\Users\bambh\source\repos\BankPoco\BankPoco\obj\Debug\netcoreapp3.1\BankPoco.csprojAssemblyReference.cache
+C:\Users\bambh\source\repos\BankPoco\BankPoco\obj\Debug\netcoreapp3.1\BankPoco.AssemblyInfoInputs.cache
+C:\Users\bambh\source\repos\BankPoco\BankPoco\obj\Debug\netcoreapp3.1\BankPoco.AssemblyInfo.cs
+C:\Users\bambh\source\repos\BankPoco\BankPoco\obj\Debug\netcoreapp3.1\BankPoco.csproj.CoreCompileInputs.cache
+C:\Users\bambh\source\repos\BankPoco\BankPoco\obj\Debug\netcoreapp3.1\BankPoco.dll
+C:\Users\bambh\source\repos\BankPoco\BankPoco\obj\Debug\netcoreapp3.1\BankPoco.pdb
